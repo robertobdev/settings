@@ -1,7 +1,7 @@
 # settings
 My personal settings
 
-#Vscode Settings json
+# Vscode Settings json
 ```
 {    
   "editor.minimap.enabled": false,
@@ -50,9 +50,10 @@ My personal settings
   "files.autoSave": "off",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "breadcrumbs.enabled": true,
-}```
+} 
+```
 
-#Vscode extensions
+# Vscode extensions
 
 - Angular 6 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 - Angular Language Service
