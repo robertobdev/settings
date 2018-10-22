@@ -62,4 +62,9 @@ My personal settings
 - Dracula Official
 - Material Icon Theme
 - Sublime Text Keymap and Settings Importer
+- Guides
+- Indent-rainbow
+- Path Intellisense
+- Rainbow brackets
+- TODO highlight
 
