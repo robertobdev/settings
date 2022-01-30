@@ -90,18 +90,20 @@ My personal settings
 
 # Vscode extensions
 ```
-#Standard
+// Standard
 
-code --install-extension angular.ng-template
-code --install-extension mikestead.dotenv
-code --install-extension editorconfig.editorconfig
+code --install-extension Angular.ng-template
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension eamodio.gitlens
-code --install-extension zhuangtongfa.material-theme
-code --install-extension christian-kohler.path-intellisense
-code --install-extension esbenp.prettier-vscode
-code --install-extension stylelint.vscode-stylelint
+code --install-extension EditorConfig.EditorConfig
+code --install-extension Gruntfuggly.todo-tree
+code --install-extension mikestead.dotenv
 code --install-extension ms-vscode.sublime-keybindings
-code --install-extension vscode-icons-team.vscode-icons
+code --install-extension PKief.material-icon-theme
+code --install-extension stylelint.vscode-stylelint
+code --install-extension zhuangtongfa.material-theme
+
+// Optional
+code --install-extension esbenp.prettier-vscode
 
 ```
